@@ -145,6 +145,6 @@ personalizados.
 -h: Muestra esta página resumen de la ayuda.
 
 EJEMPLOS:
-nmap -v -A scanme.nmap.org
 
+nmap -v -A scanme.nmap.org
 nmap -v -sP 192.168.0.0/16 10.0.0.0/8 nmap -v -iR 10000 -P0 -p 80
